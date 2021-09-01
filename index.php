@@ -21,7 +21,11 @@
                 <div class="module green">
                     <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=content&file=exercicio1">Exercício A</a></li>
+                        <li>
+                            <a href="exercicio.php?dir=basic&file=hello">
+                                Olá, PHP
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
