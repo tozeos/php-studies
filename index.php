@@ -19,7 +19,7 @@
         <div class="content">
             <nav class="modules">
                 <div class="module green">
-                    <h3>Módulo 01</h3>
+                    <h3>Básico</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=basic&file=hello">
@@ -39,6 +39,29 @@
                         <li>
                             <a href="exercicio.php?dir=basic&file=comentarios">
                                 Comentários PHP
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basic&file=desafio">
+                                Desafio
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="module red">
+                    <h3>Tipos</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=int">
+                                Tipo Inteiro
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=float">
+                                Tipo Float
                             </a>
                         </li>
                     </ul>
